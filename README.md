@@ -17,7 +17,7 @@ O código desses sistemas é institucional e não está publicado.
 
 ## Stack
 
-Python · Django · PostgreSQL · Supabase · Claude API · Cloudflare R2 · Railway · Vercel
+Python · Django · PostgreSQL · Supabase · Claude API · Cloudflare R2 · Railway · Vercel · Agentes de AI
 
 ## Contato
 
